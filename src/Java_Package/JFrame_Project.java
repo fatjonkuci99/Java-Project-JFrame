@@ -1,14 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Java_Package;
 
-/**
- *
- * @author Fatjon
- */
+/* Rritje/zvogelim i nje numri me ate te JFrame 
+Authors: Fatjon Kuci, Florjan Hysaj, Isarda Kuci, Zllatan Keraj 
+Viti II 
+Infromatike Java 
+02.05.2021 
+Me ane te JFrame eshte realizuar nje program Java ne te cilin nje numer qe 
+ndodhet ne nje jTextField i shtojme ose i zbresim nje numer 
+(1, 2, 5, 10, 50, 100) te cilet ndodhen ne nje jComboBox */
 public class JFrame_Project extends javax.swing.JFrame {
 
     /**
